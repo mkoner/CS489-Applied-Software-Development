@@ -1,0 +1,22 @@
+Functional Requirements for the ADS Web-Based Management System
+
+The system should allow the Office Manager to register new Dentists.
+
+The system should allow the Office Manager to enroll new Patients.
+
+The system should allow Patients to submit appointment requests through the ADS website.
+
+The system should enable the Office Manager to book appointments between Patients and Dentists, based on availability and scheduling constraints.
+
+Upon successful booking, the system shall send confirmation emails to the respective Patient and Dentist with appointment details.
+
+The system should allow Dentists to sign in and view a list of their scheduled appointments, including details of the assigned Patients.
+
+The system should allow Patients to sign in and view their upcoming appointments, including the Dentist's information and surgery location.
+
+The system should allow Patients to submit requests to cancel or reschedule their appointments.
+
+The system should restrict each Dentist to a maximum of five (5) appointments per calendar week.
+
+The system should prevent a Patient from requesting new appointments if they have any outstanding unpaid bills for previous dental services.
+
